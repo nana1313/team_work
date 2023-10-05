@@ -22,7 +22,7 @@
     width: 300px;
     height: 60px;
     background-color: #333;
-    margin-top: 84px;
+    margin-top: 180px;
     margin-left: 44px;
 }
 .singup-style {
@@ -38,7 +38,7 @@
     width: 300px;
     height: 60px;
     background-color: #333;
-    margin-top: 84px;
+    margin-top: 40px;
     margin-left: 44px;
 }
 .login-style {
@@ -49,6 +49,7 @@
     font-size: 24px;
     font-weight: 700;
     line-height: 36px;
+    text-decoration: none;
 }
 .main-page {
     color: #4F4F4F;
